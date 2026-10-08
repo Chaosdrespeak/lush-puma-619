@@ -135,4 +135,4 @@ In simple words: valorant skin changer lets you wear any skin in the game for fr
 | A setup question | Read the Quick Start above |
 | A feature request | Open an issue with the `enhancement` label |
 
-<p align="center"><sub>lush-puma-619 · Updated 2026-10-07 · Shared under the MIT License</sub></p>
+<p align="center"><sub>lush-puma-619 · Updated 2026-10-08 · Shared under the MIT License</sub></p>
